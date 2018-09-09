@@ -1,0 +1,30 @@
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    color: #e9ecef;
+    border-radius: .3rem;
+    background-color: maroon;
+}
+
+.form{
+    background-color: rgb(39, 139, 139);
+}
+
+.card {
+   
+    background-color: #17a2b8;
+    
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: maroon;
+    border-color:maroon;
+}
+
+#tableheader{
+    color: #fff;
+    background-color: maroon;
+    border-color:maroon;
+}
